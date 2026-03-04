@@ -1,0 +1,14 @@
+﻿src/controllers/analytics.controller.ts(14,60): error TS2322: Type 'string | string[]' is not assignable to type 'string | undefined'.
+  Type 'string[]' is not assignable to type 'string'.
+src/controllers/analytics.controller.ts(27,22): error TS2322: Type 'string | string[]' is not assignable to type 'string | StringFilter<"Analytics"> | undefined'.
+  Type 'string[]' is not assignable to type 'string | StringFilter<"Analytics"> | undefined'.
+src/controllers/analytics.controller.ts(31,22): error TS2322: Type 'string | string[]' is not assignable to type 'string | StringFilter<"Analytics"> | undefined'.
+  Type 'string[]' is not assignable to type 'string | StringFilter<"Analytics"> | undefined'.
+src/controllers/redirect.controller.ts(22,64): error TS2322: Type 'string | string[]' is not assignable to type 'string | undefined'.
+  Type 'string[]' is not assignable to type 'string'.
+src/controllers/redirect.controller.ts(51,64): error TS2322: Type 'string | string[]' is not assignable to type 'string | undefined'.
+  Type 'string[]' is not assignable to type 'string'.
+src/controllers/url.controller.ts(64,60): error TS2322: Type 'string | string[]' is not assignable to type 'string | undefined'.
+  Type 'string[]' is not assignable to type 'string'.
+src/controllers/url.controller.ts(76,44): error TS2322: Type 'string | string[]' is not assignable to type 'string | undefined'.
+  Type 'string[]' is not assignable to type 'string'.
