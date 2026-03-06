@@ -1,0 +1,19 @@
+﻿[dotenv@17.3.1] injecting env (0) from .env -- tip: ­ƒñû agentic secret storage: https://dotenvx.com/as2
+[
+  {
+    "id": "bb98941f-3699-4085-96f8-bab90d597719",
+    "short_code": "KPxtHuE",
+    "original_url": "https://www.google.com/search?q=claude+code&oq=claude+code&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQABiDARixAxiABDINCAIQABiDARixAxiABDINCAMQABiDARixAxiABDINCAQQABiDARixAxiABDINCAUQABiDARixAxiABDIKCAYQABixAxiABDINCAcQABiDARixAxiABDIHCAgQABiABDIHCAkQABiABNIBCTQ2NjZqMGoxNagCDLACAfEFI5XBSwBXJHs&sourceid=chrome&ie=UTF-8",
+    "owner_id": "36062370-d942-4195-a022-e61556ca59e5",
+    "expires_at": "2026-03-06T12:10:00.000Z",
+    "created_at": "2026-03-06T12:10:54.744Z"
+  },
+  {
+    "id": "18e4a76d-3c74-4500-95af-184880fef317",
+    "short_code": "js_x5R6",
+    "original_url": "https://www.google.com/search?q=what+is+prisma&oq=what+is+prisma&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCjEwNjk2ajBqMTWoAgCwAgA&sourceid=chrome&ie=UTF-8",
+    "owner_id": "36062370-d942-4195-a022-e61556ca59e5",
+    "expires_at": "2026-03-06T12:10:00.000Z",
+    "created_at": "2026-03-06T12:10:19.838Z"
+  }
+]

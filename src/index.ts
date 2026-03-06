@@ -3,6 +3,7 @@ import cors from 'cors';
 import helmet from 'helmet';
 import cookieParser from 'cookie-parser';
 import dotenv from 'dotenv';
+import path from 'path';
 import { Pool } from 'pg';
 import { PrismaPg } from '@prisma/adapter-pg';
 import { PrismaClient } from '@prisma/client';
@@ -39,6 +40,10 @@ app.get('/health', async (req, res) => {
 app.use('/auth', authLimiter, authRoutes);
 app.use('/urls', urlRoutes);
 app.use('/urls', analyticsRoutes);
+
+// Serve frontend client
+app.use(express.static(path.join(__dirname, '../public')));
+
 app.use('/', redirectRoutes); // Must be last
 
 app.listen(port, () => {
